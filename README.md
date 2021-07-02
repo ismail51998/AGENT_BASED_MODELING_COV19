@@ -1,4 +1,4 @@
-# Cov-SARS-19-ABM
+# Cov-SARS-19
 covid sars 19 agent-based-model
 ## SUMMARY
 <br>  The Covid Sars 19 dispersion model belong to classical pandemic dispersion agent-based model, demonstrating how even a mild infected fraction of agents can lead to a much higher numbers of infected peoples in case of lack of controlling procedures .
